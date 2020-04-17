@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-17T02:26:12.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="GPi5e7KNYE8dzC-LZLJd" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-17T03:03:22.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="os2IMF4dYZ_NeHgiozzP" version="12.9.14" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="518" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="684" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -94,8 +94,8 @@
         <mxCell id="h7TABHls1pRrWFu0Pz9J-41" value="&lt;ol&gt;&lt;li&gt;0000: 回傳推薦banner排序&amp;nbsp;&lt;/li&gt;&lt;li&gt;0001: 回傳預設banner排序&lt;/li&gt;&lt;li&gt;0002: MLaaS連線逾時&lt;/li&gt;&lt;li&gt;0003: 發查MLaaS失敗&lt;/li&gt;&lt;li&gt;0004: 顧客ID格式不正確&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=#fff2cc;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;labelPosition=center;verticalLabelPosition=middle;strokeWidth=6;spacing=-12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="290" y="610" width="200" height="100" as="geometry" />
         </mxCell>
-        <UserObject label="顧客行動銀行登入&lt;br&gt;顧客ID呼叫MLaaS" placeholders="1" name="Variable" id="pMCAPocTh6OfIMPCwxJI-1">
-          <mxCell style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <UserObject label="顧客登入行動銀行&lt;br&gt;行銀呼叫MLaaS&lt;br&gt;Input: 顧客ID" placeholders="1" name="Variable" id="pMCAPocTh6OfIMPCwxJI-1">
+          <mxCell style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="310" y="80" width="130" height="50" as="geometry" />
           </mxCell>
         </UserObject>
