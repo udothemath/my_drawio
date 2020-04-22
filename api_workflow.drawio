@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-21T14:23:47.372Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="TJowQT2tD-kvMVboP3GC" version="13.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-22T02:46:50.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="6gFtUp3-RQzbbl4Sr9UN" version="12.9.14" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="753" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="578" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -103,82 +103,82 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z0WrZ55IOFAZ8B3S86SQ" name="Page-2">
-    <mxGraphModel dx="753" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="578" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="QfnjMNIoUR7B6jNinT9_-0" />
         <mxCell id="QfnjMNIoUR7B6jNinT9_-1" parent="QfnjMNIoUR7B6jNinT9_-0" />
-        <mxCell id="QfnjMNIoUR7B6jNinT9_-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="QfnjMNIoUR7B6jNinT9_-1" source="QfnjMNIoUR7B6jNinT9_-3" target="QfnjMNIoUR7B6jNinT9_-6">
+        <mxCell id="QfnjMNIoUR7B6jNinT9_-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="QfnjMNIoUR7B6jNinT9_-1" source="QfnjMNIoUR7B6jNinT9_-3" target="QfnjMNIoUR7B6jNinT9_-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QfnjMNIoUR7B6jNinT9_-3" value="Call API" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="QfnjMNIoUR7B6jNinT9_-1">
+        <mxCell id="QfnjMNIoUR7B6jNinT9_-3" value="Call API" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="QfnjMNIoUR7B6jNinT9_-1" vertex="1">
           <mxGeometry x="210" y="20" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QfnjMNIoUR7B6jNinT9_-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="QfnjMNIoUR7B6jNinT9_-1" source="QfnjMNIoUR7B6jNinT9_-6" target="QfnjMNIoUR7B6jNinT9_-9">
+        <mxCell id="QfnjMNIoUR7B6jNinT9_-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="QfnjMNIoUR7B6jNinT9_-1" source="QfnjMNIoUR7B6jNinT9_-6" target="QfnjMNIoUR7B6jNinT9_-9" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QfnjMNIoUR7B6jNinT9_-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="QfnjMNIoUR7B6jNinT9_-1" source="QfnjMNIoUR7B6jNinT9_-6" target="QfnjMNIoUR7B6jNinT9_-7">
+        <mxCell id="QfnjMNIoUR7B6jNinT9_-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="QfnjMNIoUR7B6jNinT9_-1" source="QfnjMNIoUR7B6jNinT9_-6" target="QfnjMNIoUR7B6jNinT9_-7" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QfnjMNIoUR7B6jNinT9_-6" value="顧客ID格式&lt;br&gt;是否正確" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="QfnjMNIoUR7B6jNinT9_-1">
+        <mxCell id="QfnjMNIoUR7B6jNinT9_-6" value="顧客ID格式&lt;br&gt;是否正確" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="QfnjMNIoUR7B6jNinT9_-1" vertex="1">
           <mxGeometry x="220" y="110" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QfnjMNIoUR7B6jNinT9_-7" value="Status: 0004&lt;br&gt;顧客ID格式不正確" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="QfnjMNIoUR7B6jNinT9_-1">
+        <mxCell id="QfnjMNIoUR7B6jNinT9_-7" value="Status: 0003&lt;br&gt;顧客ID格式不正確" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="QfnjMNIoUR7B6jNinT9_-1" vertex="1">
           <mxGeometry x="370" y="130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QfnjMNIoUR7B6jNinT9_-8" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="QfnjMNIoUR7B6jNinT9_-1" source="QfnjMNIoUR7B6jNinT9_-9" target="QfnjMNIoUR7B6jNinT9_-11">
+        <mxCell id="QfnjMNIoUR7B6jNinT9_-8" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="QfnjMNIoUR7B6jNinT9_-1" source="QfnjMNIoUR7B6jNinT9_-9" target="QfnjMNIoUR7B6jNinT9_-11" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QfnjMNIoUR7B6jNinT9_-9" value="發查MLaaS&lt;br&gt;是否成功" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="QfnjMNIoUR7B6jNinT9_-1">
+        <mxCell id="QfnjMNIoUR7B6jNinT9_-9" value="發查MLaaS&lt;br&gt;是否成功" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="QfnjMNIoUR7B6jNinT9_-1" vertex="1">
           <mxGeometry x="220" y="230" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QfnjMNIoUR7B6jNinT9_-10" value="Status: 0000&lt;br&gt;成功回傳推薦排序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QfnjMNIoUR7B6jNinT9_-1">
+        <mxCell id="QfnjMNIoUR7B6jNinT9_-10" value="Status: 0000&lt;br&gt;成功回傳推薦排序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="QfnjMNIoUR7B6jNinT9_-1" vertex="1">
           <mxGeometry x="210" y="480" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QfnjMNIoUR7B6jNinT9_-11" value="Status: 0003" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="QfnjMNIoUR7B6jNinT9_-1">
+        <mxCell id="QfnjMNIoUR7B6jNinT9_-11" value="Status: 0003" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="QfnjMNIoUR7B6jNinT9_-1" vertex="1">
           <mxGeometry x="370" y="250" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QfnjMNIoUR7B6jNinT9_-12" value="Status: 0003&lt;br&gt;發查MLaaS失敗" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="QfnjMNIoUR7B6jNinT9_-1">
+        <mxCell id="QfnjMNIoUR7B6jNinT9_-12" value="Status: 0002&lt;br&gt;異常(無法發查MLaaS)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="QfnjMNIoUR7B6jNinT9_-1" vertex="1">
           <mxGeometry x="370" y="250" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QfnjMNIoUR7B6jNinT9_-13" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="QfnjMNIoUR7B6jNinT9_-1">
+        <mxCell id="QfnjMNIoUR7B6jNinT9_-13" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="QfnjMNIoUR7B6jNinT9_-1" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="270" y="310" as="sourcePoint" />
             <mxPoint x="270" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QfnjMNIoUR7B6jNinT9_-17" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="QfnjMNIoUR7B6jNinT9_-1" source="QfnjMNIoUR7B6jNinT9_-19" target="QfnjMNIoUR7B6jNinT9_-10">
+        <mxCell id="QfnjMNIoUR7B6jNinT9_-17" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="QfnjMNIoUR7B6jNinT9_-1" source="QfnjMNIoUR7B6jNinT9_-19" target="QfnjMNIoUR7B6jNinT9_-10" edge="1">
           <mxGeometry x="-0.1429" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="270" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QfnjMNIoUR7B6jNinT9_-19" value="模型結果名單中是否有此顧客" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="QfnjMNIoUR7B6jNinT9_-1">
+        <mxCell id="QfnjMNIoUR7B6jNinT9_-19" value="模型是否回傳推薦排序" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="QfnjMNIoUR7B6jNinT9_-1" vertex="1">
           <mxGeometry x="220" y="350" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QfnjMNIoUR7B6jNinT9_-20" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="QfnjMNIoUR7B6jNinT9_-1" source="QfnjMNIoUR7B6jNinT9_-19">
+        <mxCell id="QfnjMNIoUR7B6jNinT9_-20" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="QfnjMNIoUR7B6jNinT9_-1" source="QfnjMNIoUR7B6jNinT9_-19" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="370" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QfnjMNIoUR7B6jNinT9_-21" value="Status: 0001&lt;br&gt;模型結果名單&lt;br&gt;無此登入顧客ID" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QfnjMNIoUR7B6jNinT9_-1">
+        <mxCell id="QfnjMNIoUR7B6jNinT9_-21" value="Status: 0001&lt;br&gt;模型結果名單&lt;br&gt;無此登入顧客ID" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="QfnjMNIoUR7B6jNinT9_-1" vertex="1">
           <mxGeometry x="370" y="370" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QfnjMNIoUR7B6jNinT9_-23" value="Status: 0001&lt;br&gt;模型結果名單&lt;br&gt;無此登入顧客ID" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="QfnjMNIoUR7B6jNinT9_-1">
+        <mxCell id="QfnjMNIoUR7B6jNinT9_-23" value="Status: 0001&lt;br&gt;回傳預設banner排序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="QfnjMNIoUR7B6jNinT9_-1" vertex="1">
           <mxGeometry x="370" y="370" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QfnjMNIoUR7B6jNinT9_-24" value="&lt;ol&gt;&lt;li&gt;0000: 回傳推薦banner排序&amp;nbsp;&lt;/li&gt;&lt;li&gt;0001: 回傳預設banner排序&lt;/li&gt;&lt;li&gt;0002: MLaaS連線逾時&lt;/li&gt;&lt;li&gt;0003: 發查MLaaS失敗&lt;/li&gt;&lt;li&gt;0004: 顧客ID格式不正確&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=#fff2cc;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;labelPosition=center;verticalLabelPosition=middle;strokeWidth=6;spacing=-12;" vertex="1" parent="QfnjMNIoUR7B6jNinT9_-1">
-          <mxGeometry x="340" y="430" width="200" height="100" as="geometry" />
+        <mxCell id="QfnjMNIoUR7B6jNinT9_-24" value="&lt;ol&gt;&lt;li&gt;0000: 回傳推薦banner排序&amp;nbsp;&lt;/li&gt;&lt;li&gt;0001: 回傳預設banner排序&lt;/li&gt;&lt;li&gt;0002: 異常(無法發查MLaaS)&lt;/li&gt;&lt;li&gt;0003: 顧客ID格式不正確&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=#fff2cc;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;labelPosition=center;verticalLabelPosition=middle;strokeWidth=6;spacing=-12;" parent="QfnjMNIoUR7B6jNinT9_-1" vertex="1">
+          <mxGeometry x="340" y="437" width="200" height="100" as="geometry" />
         </mxCell>
         <UserObject label="顧客登入行動銀行&lt;br&gt;行銀呼叫MLaaS&lt;br&gt;Input: 顧客ID" placeholders="1" name="Variable" id="QfnjMNIoUR7B6jNinT9_-25">
-          <mxCell style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="QfnjMNIoUR7B6jNinT9_-1">
+          <mxCell style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="QfnjMNIoUR7B6jNinT9_-1" vertex="1">
             <mxGeometry x="360" y="20" width="130" height="50" as="geometry" />
           </mxCell>
         </UserObject>
