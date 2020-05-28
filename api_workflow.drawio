@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-28T05:14:57.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="q4au-0FCNP3j1vrBGxXt" version="13.1.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-05-28T05:40:01.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="soGiIIJ0EKTaBBIu7SAD" version="13.1.3" type="github" pages="3">
   <diagram id="ySz0Py1HpDfHeLLja6__" name="version3">
     <mxGraphModel dx="748" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,6 +20,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="oRHurq6mvN2Bd5AfDysX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oRHurq6mvN2Bd5AfDysX-1" source="oRHurq6mvN2Bd5AfDysX-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oRHurq6mvN2Bd5AfDysX-6" value="顧客ID格式&lt;br&gt;是否正確" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="oRHurq6mvN2Bd5AfDysX-1">
           <mxGeometry x="220" y="110" width="100" height="80" as="geometry" />
         </mxCell>
@@ -31,7 +36,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oRHurq6mvN2Bd5AfDysX-9" value="連線時間&lt;br&gt;小於三秒" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="oRHurq6mvN2Bd5AfDysX-1">
+        <mxCell id="oRHurq6mvN2Bd5AfDysX-9" value="無發生異常&lt;br&gt;(含連線逾時)" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="oRHurq6mvN2Bd5AfDysX-1">
           <mxGeometry x="219" y="230" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oRHurq6mvN2Bd5AfDysX-10" value="Status: 0000&lt;br&gt;成功回傳推薦排序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="oRHurq6mvN2Bd5AfDysX-1">
@@ -40,7 +45,7 @@
         <mxCell id="oRHurq6mvN2Bd5AfDysX-11" value="Status: 0003" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="oRHurq6mvN2Bd5AfDysX-1">
           <mxGeometry x="370" y="250" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oRHurq6mvN2Bd5AfDysX-12" value="Status: 0002&lt;br&gt;異常(連線逾時)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oRHurq6mvN2Bd5AfDysX-1">
+        <mxCell id="oRHurq6mvN2Bd5AfDysX-12" value="Status: 0002&lt;br&gt;異常(含連線逾時)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oRHurq6mvN2Bd5AfDysX-1">
           <mxGeometry x="370" y="250" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oRHurq6mvN2Bd5AfDysX-13" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="oRHurq6mvN2Bd5AfDysX-1">
